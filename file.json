@@ -1,1 +1,11 @@
-{}
+{
+  "BaseModel.4dc3653b-c4d3-4613-90aa-5afcfd427513": {
+    "number": 0,
+    "name": "My First Model",
+    "updated_at": "2023-02-13T02:06:39.954221",
+    "id": "4dc3653b-c4d3-4613-90aa-5afcfd427513",
+    "created_at": "2023-02-13T02:06:39.954109",
+    "my_number": 89,
+    "__class__": "My First Model"
+  }
+}
