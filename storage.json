@@ -1,3 +1,0 @@
-{
-  "BaseModel.4dc3653b-c4d3-4613-90aa-5afcfd427513": "[BaseModel] (4dc3653b-c4d3-4613-90aa-5afcfd427513) {'number': 0, 'name': 'My First Model', 'updated_at': datetime.datetime(2023, 2, 13, 2, 6, 39, 954221), 'id': '4dc3653b-c4d3-4613-90aa-5afcfd427513', 'created_at': datetime.datetime(2023, 2, 13, 2, 6, 39, 954109), 'my_number': 89}"
-}
